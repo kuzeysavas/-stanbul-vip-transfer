@@ -139,14 +139,13 @@ const Hero = () => {
           >
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 border border-white/20 backdrop-blur-sm mb-6">
               <Star className="w-4 h-4 text-gold-500 fill-gold-500" />
-              <span className="text-sm font-medium text-gray-200">Trusted Premium Chauffeur Service</span>
+              <span className="text-sm font-medium text-gray-200">24/7 Airport & Private Chauffeur Service</span>
             </div>
             <h1 className="text-5xl lg:text-7xl font-bold tracking-tight text-white mb-6 leading-tight">
-              Premium <br/>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-600">
-                Chauffeur Service
+              Luxury <br/>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-600">          
               </span><br/>
-              in Istanbul
+              Chauffeur Service
             </h1>
             <p className="text-lg lg:text-xl text-gray-300 mb-8 max-w-xl font-light">
               Reliable, luxury airport transfers and private drivers at fixed prices. Experience the ultimate comfort and professionalism.
@@ -555,7 +554,7 @@ const Footer = () => {
               BLACK<span className="text-gold-500">DRIVER</span>
             </span>
             <p className="text-gray-400 max-w-md mb-8">
-              Premium chauffeur service and luxury airport transfers in Istanbul. Reliable, professional, and dedicated to your comfort.
+              Luxury VIP Vito & Tesla transfers in Istanbul. Airpot transfers, private chauffeur service and premium transition.
             </p>
             <div className="flex gap-4">
               <span className="inline-flex items-center gap-2 text-sm text-gray-400 bg-white/5 px-3 py-1.5 rounded-full border border-white/10">
