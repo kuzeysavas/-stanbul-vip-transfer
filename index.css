@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-400: #E5C158;
+  --color-gold-500: #D4AF37;
+  --color-gold-600: #C5A028;
+  --color-black-800: #1A1A1A;
+  --color-black-900: #111111;
+  --color-black-950: #000000;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-black-950 text-white font-sans antialiased selection:bg-gold-500 selection:text-black;
+  }
+}
